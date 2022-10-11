@@ -1,2 +1,3 @@
 role,NetID,LastName,FirstName
 boss,xqian49,Qian,Xuelan
+employee,xli2422,Li,Xiao
